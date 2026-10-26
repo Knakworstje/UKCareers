@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Careers | Government of the United Kingdom</title>
+<link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+<header>
+  <div class="wrap nav">
+    <div class="brand">
+      <div class="brandmark">UK</div>
+      <div>
+        <div class="brandname">GOVERNMENT OF THE UNITED KINGDOM OF LABOUR CAPE, MOUNTAIN, TECHLAN AND WELFORT</div>
+        <div class="brandtag">OFFICIAL CAREERS PORTAL</div>
+      </div>
+    </div>
+
+    <nav class="navlinks">
+      <a href="#vacancies">Vacancies</a>
+      <a href="#about">About The United Kingdom</a>
+    </nav>
+
+    <div class="navlabel">CAREERS</div>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <div class="eyebrow">YOUR FUTURE. OUR COUNTRY.</div>
+      <h1>Make a difference.<br>
+        <span style="color:#f08b96">Serve the United Kingdom.</span>
+      </h1>
+      
+      <p>Build your future while helping shape ours. Discover opportunities across the Government of the United Kingdom.</p>
+      <div class="actions">
+        <a class="btn primary" href="#vacancies">Explore vacancies →</a>
+        <a class="btn outline" href="#about">Discover the United Kingdom</a>
+      </div>
+    </div>
+
+    <div class="slogan">TEAMWORK MAKES THE DREAM WORK.</div>
+  </section>
+
+  <section class="listing wrap" id="vacancies">
+    <div class="sectionhead">
+      <div>
+        <div class="eyebrow">FIND YOUR PLACE</div>
+        <h2>Explore our vacancies</h2>
+        <div class="sub">Find a role that matches your interests and skills.</div>
+      </div>
+
+      <div class="count" id="count"></div>
+    </div>
+
+    <div class="filters">
+      <div class="filtergrid">
+        <div class="field">
+          <label for="search">SEARCH ROLES</label>
+          <input id="search" type="search" placeholder="Search job title or keyword…">
+        </div>
+
+        <div class="field">
+          <label for="department">DEPARTMENT</label>
+          <select id="department">
+            <option value="">All departments</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="type">EMPLOYMENT TYPE</label>
+          <select id="type">
+            <option value="">All types</option>
+          </select>
+        </div>
+      </div>
+    
+      <div class="quick" id="quickFilters"></div>
+    </div>
+
+    <div class="grid" id="jobGrid"></div>
+  
+    <div class="empty" id="empty">
+      <strong>No matching vacancies</strong>
+      <p class="sub">Try changing your search or filters.</p>
+      <button class="btn outline" style="color:var(--navy);border-color:var(--line)" id="clear">Clear filters</button>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="wrap aboutgrid">
+      <div>
+        <div class="eyebrow" style="color:#f08b96">A PLACE TO CONTRIBUTE</div>
+        <h2>More than a job.<br>A role in the United Kingdom's future.</h2>
+      </div>
+      
+      <p>The Government of the United Kingdom brings together people with different skills, ambitions and backgrounds. From public administration to infrastructure, public services and defence, every role contributes to the wider community.</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap footerrow">
+    <strong>GOVERNMENT OF THE UNITED KINGDOM OF LABOUR CAPE, MOUNTAIN, TECHLAN AND WELFORT</strong>
+    <span>Teamwork makes the dream work.</span>
+    <span>Official Careers Portal</span>
+  </div>
+</footer>
+
+<div class="detailview" id="detail" aria-modal="true" role="dialog">
+ <div class="detailbar"><div class="wrap detailbarrow"><strong>GOVERNMENT OF THE UNITED KINGDOM OF LABOUR CAPE, MOUNTAIN, TECHLAN AND WELFORT</strong><button class="back" id="closeDetail">← Back to vacancies</button></div></div>
+ <div class="wrap detailbody" id="detailContent"></div>
+</div>
+
+<script src="index.js" defer></script>
+</body>
+</html>

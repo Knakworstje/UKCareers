@@ -1,0 +1,138 @@
+{
+  "slogan": "Teamwork makes the dream work.",
+  "departments": ["Interior", "Defence", "Statuatory Bodies"],
+  "types": ["Employment", "Volunteer", "Appointment"],
+  "jobs": [
+    {
+      "id": "raf-reserve",
+      "title": "Reserve Infantry - Royal Armed Forces",
+      "department": "Defence",
+      "type": "Volunteer",
+      "location": "H.R.H. Alfiedog Infantry Base",
+      "salary": "Unpaid volunteer role",
+      "level": "Entry level",
+      "summary": "Serve as a volunteer reserve infantry member of the Royal Armed Forces, supporting the United Kingdom's defence, security and military readiness.",
+      "description": "RAF Reserve Infantry members serve as part-time volunteer personnel, providing additional manpower and support to the Royal Armed Forces when required. Reservists participate in training exercises, maintain their military readiness and support RAF operations under the direction of the chain of command. This role offers citizens the opportunity to contribute to the United Kingdom's defence while maintaining their regular civilian activities",
+      "responsibilities": [
+        "Attend scheduled RAF training sessions and military exercises",
+        "Support active RAF personnel during operations",
+        "Maintain professional conduct and discipline as a representative of the RAF"
+      ],
+      "requirements": [
+        "Commitment to serving the United Kingdom as a volunteer reservist",
+        "Ability to work effectively in a team and follow instructions",
+        "Good communication, reliability and discipline",
+        "Not a citizen of the Empire of Wilderburg [Security Restriction]"
+      ],
+      "benefits": [
+        "Department-funded equipment",
+        "Professional development",
+        "Leadership opportunities",
+        "Access to RAF facilities",
+        "Access to free food, potions and other supplies in the Mess Halls of the RAF"
+      ],
+      "applyUrl": "https://YOUR-APPLICATION-LINK-HERE"
+    },
+
+    {
+        "id": "interior-policy-officer",
+        "title": "Policy Officer - Ministry of the Interior & Kingdom Relations",
+        "department": "Interior",
+        "type": "Employment",
+        "location": "Government of Welfort",
+        "salary": "$60 per day",
+        "level": "Entry level",
+        "summary": "Help develop and implement government policy with a focus on introducing and administering the Wood Levy and Residential Levy.",
+        "description": "The Policy Officer supports the Ministry of the Interior & Kingdom Relations in developing, coordinating and implementing domestic government policy. A key responsibility of this position will be the practical implementation of the Wood Levy and Residential Levy, including the development of administrative procedures, communication with affected citizens and residents of Welfort, and coordination with relevant government departments. The successful candidate will help translate government policy into clear, workable regulations and ensure that new measures are implemented consistently and effectively.",
+        "responsibilities": [
+            "Coordinate the implementation of the Wood Levy and Residential Levy",
+            "Develop policy proposals, implementation plans and administrative procedures",
+            "Coordinate with the Treasury and other relevant government ministries",
+            "Monitor the implementation and administration of government levies",
+            "Prepare policy reports, briefings and recommendations for ministers",
+            "Communicate new policies and requirements to citizens and relevant stakeholders"
+        ],
+        "requirements": [
+            "Strong organisational and administrative skills",
+            "Good written communication skills",
+            "Ability to analyse policies and translate them into practical procedures",
+            "Interest in public administration, taxation and government affairs",
+            "Ability to work independently and coordinate with multiple ministries and directorates-general",
+            "Commitment to serving the Government and citizens of Welfort"
+        ],
+        "benefits": [
+            "Opportunity to shape and implement national government policy",
+            "Professional development in public administration",
+            "Direct cooperation with ministers and senior government officials",
+            "Opportunities for promotion and increased responsibility",
+            "Access to government facilities and resources"
+        ],
+        "applyUrl": "https://YOUR-APPLICATION-LINK-HERE"
+    },
+
+    {
+        "id": "interior-municipal-officer",
+        "title": "Municipal Officer - Ministry of the Interior & Kingdom Relations",
+        "department": "Interior",
+        "type": "Employment",
+        "location": "Government of Welfort",
+        "salary": "$60 per day",
+        "level": "Entry level",
+        "summary": "Help develop and implement government policy with a focus on interaction between the national and municipal governments.",
+        "description": "The Policy Officer supports the Ministry of the Interior & Kingdom Relations in developing, coordinating and implementing domestic government policy. A key responsibility of this position will be the interaction between the national and municipal governments of Welfort.",
+        "responsibilities": [
+            "Coordinate with the Municipalities of Welfort.",
+            "Develop policy proposals, implementation plans and administrative procedures",
+            "Coordinate with the Treasury and other relevant government ministries",
+            "Monitor the implementation and administration of government levies",
+            "Prepare policy reports, briefings and recommendations for ministers",
+            "Communicate new policies and requirements to citizens and relevant stakeholders"
+        ],
+        "requirements": [
+            "Strong organisational and administrative skills",
+            "Good written communication skills",
+            "Ability to analyse policies and translate them into practical procedures",
+            "Interest in public administration, taxation and government affairs",
+            "Ability to work independently and coordinate with multiple ministries and directorates-general",
+            "Commitment to serving the Government and citizens of Welfort"
+        ],
+        "benefits": [
+            "Opportunity to shape and implement national government policy",
+            "Professional development in public administration",
+            "Direct cooperation with ministers and senior government officials",
+            "Opportunities for promotion and increased responsibility",
+            "Access to government facilities and resources"
+        ],
+        "applyUrl": "https://YOUR-APPLICATION-LINK-HERE"
+    },
+
+    {
+        "id": "court-of-audit-member",
+        "title": "Councilmember - Court of Audit",
+        "department": "Statuatory Bodies",
+        "type": "Appointment",
+        "location": "Government of Welfort",
+        "salary": "Unpaid volunteer role",
+        "level": "Experienced",
+        "summary": "Fulfil an important constitutional oversight function by ensuring transparency and accountability in government finances.",
+        "description": "Members of the Court of Audit independently examine public expenditure, government finances and the proper use of public funds, helping safeguard financial accountability across government.",
+        "responsibilities": [
+            "Review government expenditure and financial records",
+            "Conduct independent audits of public institutions",
+            "Report findings and irregularities",
+            "Promote transparency and financial accountability"
+        ],
+        "requirements": [
+            "Integrity and impartiality",
+            "Strong analytical and administrative skills",
+            "Commitment to constitutional oversight"
+        ],
+        "benefits": [
+            "Opportunity to fulfil an important constitutional function",
+            "Independent role within Welfort's constitutional framework",
+            "Contribution to accountable government"
+        ],
+        "applyUrl": "https://YOUR-APPLICATION-LINK-HERE"
+    }
+  ]
+}
